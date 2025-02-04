@@ -1,2 +1,3 @@
 # Subhajit-coding-platform
-hello world! this is my profile
+hello world! this is my profile.
+my name- Subhajit Mondal
